@@ -1,6 +1,9 @@
-# EventGenie (Working Title)
+# FizzBuzz
 
-EventGenie is an AI-powered event planning web application designed to help users quickly and easily create memorable events. The app leverages AI to generate personalized event plans, recommendations, and professional-looking flyers based on a simple natural language prompt.
+FizzBuzz is an AI-powered event planning web application designed to help users quickly and easily create memorable events. The app leverages AI to generate personalized event plans, recommendations, and professional-looking flyers based on a simple natural language prompt.
+
+**Note:** The name "FizzBuzz" is inspired by the classic coding challenge, but here it also suggests celebration ("fizz") and excitement ("buzz")—perfect for an event app!
+
 
 ## Goals
 - Make event planning fast, stress-free, and accessible to everyone

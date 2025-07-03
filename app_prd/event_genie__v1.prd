@@ -1,0 +1,109 @@
+# One-pager: EventGenie
+
+## 1. TL;DR
+EventGenie is a mobile event planning app that uses AI to transform event creation from stressful to delightful. Targeting busy individuals who want to host memorable events without the overwhelming planning process, the app provides personalized recommendations for food, activities, and entertainment while generating professional event flyers through an intuitive prompt-based interface.
+
+## 2. Goals
+### Business Goals
+* Capture market share in the $1.1B event planning software market
+* Achieve 100K active users within 12 months of launch
+* Generate revenue through premium features and vendor partnerships
+* Establish EventGenie as the go-to platform for personal event planning
+
+### User Goals
+* Plan events 10x faster with AI-powered suggestions
+* Create professional-looking event flyers without design skills
+* Reduce event planning stress and decision fatigue
+* Discover new ideas and vendors for memorable experiences
+* Seamlessly manage guest lists and invitations
+
+### Non-Goals
+* Corporate event planning or large-scale conference management
+* Venue booking or payment processing (Phase 1)
+* Professional event coordinator services
+* Wedding planning specialization
+
+## 3. User stories
+**Primary Persona: Sarah, the Social Host**
+- *"As a busy professional, I want to quickly plan a birthday party so I can focus on enjoying time with friends rather than stressing about details"*
+- *"As someone with limited design experience, I want to create beautiful event flyers so my invitations look professional and exciting"*
+
+**Secondary Persona: Mike, the Occasional Planner**
+- *"As someone who rarely plans events, I want personalized suggestions so I don't miss important details or make poor choices"*
+- *"As a budget-conscious host, I want to see different options at various price points so I can plan within my means"*
+
+## 4. Functional requirements
+### Must-Have (MVP)
+* AI-powered event prompt interface ("Plan a casual 30th birthday party for 20 people who love craft beer")
+* Personalized recommendations engine for food, activities, and entertainment
+* Integrated flyer generator with customizable templates
+* Basic guest list management and invitation sharing
+* Event timeline and checklist generation
+
+### Should-Have (Phase 2)
+* Advanced flyer customization with brand colors and fonts
+* Vendor marketplace integration for bookings
+* Budget tracking and cost estimation
+* Social sharing and event discovery features
+* Push notifications for planning milestones
+
+### Could-Have (Future)
+* AR venue visualization
+* Group polling for guest preferences
+* Multi-language support
+* Integration with calendar apps and social media platforms
+
+## 5. User experience
+### Primary User Journey
+* User opens app and taps "Plan New Event"
+* Enters natural language prompt describing their event vision
+* AI generates personalized recommendations across categories
+* User selects preferred options and customizes details
+* App generates event flyer using selected theme and details
+* User reviews and shares flyer with guest list
+* App creates planning timeline and sends reminders
+
+### Edge Cases & UI Notes
+* Graceful handling of incomplete or vague prompts with follow-up questions
+* Offline mode for viewing saved events and checklists
+* Accessibility features for users with visual impairments
+* Progressive disclosure to avoid overwhelming new users
+* Quick-action buttons for common event types (birthday, dinner party, game night)
+
+## 6. Narrative
+It's Thursday evening, and Sarah just realized her best friend's birthday is this weekend. Instead of panicking, she opens EventGenie and types: "Fun 25th birthday party for my adventurous friend who loves tacos and karaoke, about 15 people, $200 budget."
+
+Within seconds, the app suggests a taco bar setup with three protein options, a playlist of crowd-pleasing karaoke songs, and decoration ideas in her friend's favorite colors. Sarah loves the suggestions but swaps the piñata for a photo booth backdrop.
+
+With a few taps, EventGenie generates a vibrant flyer featuring the taco and karaoke theme. Sarah adds the party details, and the app creates a guest list from her contacts. She sends the flyer via text to 15 friends, and the app automatically creates a planning timeline with reminders to buy decorations and prep the taco bar.
+
+Saturday arrives, and Sarah's stress-free party is a hit. Her friend is thrilled, guests are raving about the setup, and Sarah is already planning her next event using EventGenie.
+
+## 7. Success metrics
+* **User Engagement**: 70% of users create a second event within 30 days
+* **Feature Adoption**: 85% of events include AI-generated recommendations
+* **Content Creation**: 90% of users generate and share event flyers
+* **User Satisfaction**: 4.5+ star rating in app stores
+* **Retention**: 60% monthly active user retention
+* **Time-to-Value**: Users complete their first event setup in under 10 minutes
+
+## 8. Milestones & sequencing
+### Phase 1: MVP Launch (Months 1-4)
+* Core AI recommendation engine
+* Basic flyer generator with 10 templates
+* Guest list management
+* iOS app launch with 5 event categories
+
+### Phase 2: Enhanced Features (Months 5-8)
+* Advanced flyer customization
+* Android app launch
+* Vendor partnership integration
+* Budget tracking tools
+* 15 total event categories
+
+### Phase 3: Growth & Optimization (Months 9-12)
+* Social features and event discovery
+* Premium subscription tier
+* Advanced AI personalization
+* Performance optimization and scaling
+* International market expansion planning 

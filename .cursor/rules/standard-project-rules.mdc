@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+1. If there are significant changes to tech stack and architecture, update the architecture.md doc.
